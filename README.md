@@ -47,12 +47,10 @@ Este proyecto está protegido bajo la licencia:
 
 **Este proyecto es una simulación académica y no promueve el juego de azar ni el uso de estrategias de apuestas para fines comerciales.**
 
-📫 Contacto
-Autor: Alex Lombana
-Correo: spava2311@gmail.com
-GitHub: https://github.com/alexlombana0
-
-📧 Para cualquier consulta o permiso especial, puedes contactarme en: spava2311@gmail.com
+📫 Contacto  
+Autor: Alex Lombana  
+Correo: spava2311@gmail.com  
+GitHub: [https://github.com/alexlombana0](https://github.com/alexlombana0)
 
 ---
 
@@ -80,9 +78,14 @@ ruleta_americana/
 ## 🚀 Requisitos
 
 - Python 3.9+
-- Pygame
+- Librerías de Python utilizadas:
+  - **Pygame** (para la interfaz gráfica, eventos y animaciones)
+  - **random** (para la generación de resultados de la ruleta)
+  - **sys** (para cerrar el juego correctamente)
 
 Instalación de dependencias:
 
 ```bash
 pip install pygame
+
+
